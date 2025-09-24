@@ -31,6 +31,7 @@ This project integrates:
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
+```
 
 📊 Key Visualizations
 1️⃣ Interactive Dashboard Overview
