@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 📊 Key Visualizations
 1️⃣ Interactive Dashboard Overview
-https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/cb9a997c35a1ff7721dc96ae0a9254926ac2b5fa/dashboard.png
+![image alt](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/cb9a997c35a1ff7721dc96ae0a9254926ac2b5fa/dashboard.png)
 2️⃣ Oil Prices (2015–2025)
 
 3️⃣ Oil Price Volatility (GARCH Modeled)
