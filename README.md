@@ -35,17 +35,17 @@ pip install -r requirements.txt
 
 📊 Key Visualizations
 1️⃣ Interactive Dashboard Overview
-![image alt](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/cb9a997c35a1ff7721dc96ae0a9254926ac2b5fa/dashboard.png)
+![Dashboard](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/cb9a997c35a1ff7721dc96ae0a9254926ac2b5fa/dashboard.png)
 2️⃣ Oil Prices (2015–2025)
-
+![Oil Prices](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_prices.png)
 3️⃣ Oil Price Volatility (GARCH Modeled)
-
+![Oil GARCH Volatility](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_prices_garch_volatility.png)
 4️⃣ Oil Prices vs Defence Spending
-
-5️⃣ Oil Prices vs Defence (Alternative View)
-
+![Oil vs Defence]((https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_price_vs_defence.png))
+5️⃣ Oil Prices vs Defence (with key political events)
+![Oil vs Defence 2](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_prices_vs_defence.png)
 6️⃣ PKR Movement During Events
-
+![PKR Movement](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/pkr_movement.png)
 📑 Results
 
 Key findings:
