@@ -44,6 +44,8 @@ This project integrates:
 
 ![PKR Movement](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/pkr_movement.png)
 
+---
+
 📑 Results
 
 **Key findings:**
