@@ -26,6 +26,8 @@ This project integrates:
 - `Licence/`  
 - `README.md/` 
 
+---
+
 📊 Key Visualizations
 
 1️⃣ Interactive Dashboard Overview
