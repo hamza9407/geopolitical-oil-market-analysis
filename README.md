@@ -48,8 +48,8 @@ pip install -r requirements.txt
 5️⃣ Oil Prices vs Defence (with key political events)
 ![Oil vs Defence 2](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_prices_vs_defence.png)
 6️⃣ PKR Movement During Events
-![PKR Movement]
-(https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/pkr_movement.png)
+
+![PKR Movement](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/pkr_movement.png)
 
 📑 Results
 
