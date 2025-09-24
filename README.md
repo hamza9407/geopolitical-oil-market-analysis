@@ -41,7 +41,7 @@ pip install -r requirements.txt
 3️⃣ Oil Price Volatility (GARCH Modeled)
 ![Oil GARCH Volatility](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_prices_garch_volatility.png)
 4️⃣ Oil Prices vs Defence Spending
-![Oil vs Defence]((https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_price_vs_defence.png))
+![Oil vs Defence](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_price_vs_defence.png)
 5️⃣ Oil Prices vs Defence (with key political events)
 ![Oil vs Defence 2](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/760306b5c21017be0f7164161b9efd12f074fcb9/oil_prices_vs_defence.png)
 6️⃣ PKR Movement During Events
