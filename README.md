@@ -1,5 +1,8 @@
 # Geopolitical Oil Market Analysis (2015–2025)
 
+> ⚠️ **Note:** This repository is for demonstration purposes only.  
+> Full code, datasets, and models are private but available on request.
+
 📖 **Published Research:**  
 [Impact of Geopolitical Tensions on Oil Market Volatility and Currency Movements](https://jccair.org/index.php/jcai/article/view/3)
 
