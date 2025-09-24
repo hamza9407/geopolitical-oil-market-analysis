@@ -6,7 +6,7 @@
 📖 **Published Research:**  
 [Impact of Geopolitical Tensions on Oil Market Volatility and Currency Movements](https://jccair.org/index.php/jcai/article/view/3)
 
-This repository contains code, datasets, and visualizations from my published research:
+This repository contains visualizations from my published research:
 **"Impact of Geopolitical Tensions on Oil Market Volatility and Currency Movements"**
 published in the *Journal of Computing and Artificial Intelligence*.
 
