@@ -27,6 +27,7 @@ This project integrates:
 - `README.md/` 
 
 📊 Key Visualizations
+
 1️⃣ Interactive Dashboard Overview
 ![Dashboard](https://github.com/hamza9407/geopolitical-oil-market-analysis/blob/cb9a997c35a1ff7721dc96ae0a9254926ac2b5fa/dashboard.png)
 2️⃣ Oil Prices (2015–2025)
