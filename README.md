@@ -52,10 +52,10 @@ pip install -r requirements.txt
 
 📑 Results
 
-!Key findings:
+**Key findings:**
 
-Negative geopolitical sentiment correlates with higher oil volatility
+- Negative geopolitical sentiment correlates with higher oil volatility
 
-PKR depreciates significantly during major geopolitical escalations
+- PKR depreciates significantly during major geopolitical escalations
 
-Power BI dashboard allows event-wise dynamic filtering & drillthrough analysis
+- Power BI dashboard allows event-wise dynamic filtering & drillthrough analysis
