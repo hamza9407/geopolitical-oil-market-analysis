@@ -23,18 +23,8 @@ This project integrates:
 ---
 
 ## 🗂 Repository Structure
-- `data/` – Cleaned datasets (or samples)
-- `notebooks/` – Jupyter notebooks for analysis
-- `dashboards/` – Power BI `.pbix` file
-- `report/` – Published paper & documentation
-- `figures/` – Exported charts and visualizations (see below)
-
----
-
-## ⚙️ Installation
-```bash
-pip install -r requirements.txt
-```
+- `Licence/`  
+- `README.md/` 
 
 📊 Key Visualizations
 1️⃣ Interactive Dashboard Overview
@@ -60,3 +50,10 @@ pip install -r requirements.txt
 - PKR depreciates significantly during major geopolitical escalations
 
 - Power BI dashboard allows event-wise dynamic filtering & drillthrough analysis
+
+---
+
+## ⚙️ Installation
+```bash
+pip install -r requirements.txt
+```
